@@ -1,16 +1,18 @@
 💻 - https://blog.flaviojmendes.com
 
+💼 - https://linkedin.com/in/flaviojmendes
+
 ### Open Source Projects:
 
-📍 - http://trilha.info
+📍 - https://trilha.info
 
-🌐 - http://brstreamers.dev
+🌐 - https://brstreamers.dev
 
 ### Creating content at:
 
-📺 - http://twitch.tv/flaviojmendes
+📺 - https://twitch.tv/flaviojmendes
 
-🎬 - http://youtube.com/flaviojmendes
+🎬 - https://youtube.com/flaviojmendes
 
 ![flaviojmendes's github stats](https://github-readme-stats.vercel.app/api?username=flaviojmendes&count_private=true&show_icons=true&theme=tokyonight)
 
