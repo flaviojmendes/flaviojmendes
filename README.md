@@ -1,24 +1,14 @@
-💻 - https://blog.flaviojmendes.com
+💻 - https://flaviojmendes.com
 
 💼 - https://linkedin.com/in/flaviojmendes
 
 ### Open Source Projects:
+📍 - https://dinamos.net
 
 📍 - https://trilha.info
 
 🌎 - https://myworld.watch
 
-✍️ - https://coralina.app
-
-🌐 - https://brstreamers.dev
-
-😂 - https://desmotive.me
-
-### Creating content at:
-
-📺 - https://twitch.tv/flaviojmendes
-
-🎬 - https://youtube.com/flaviojmendes
 
 ![flaviojmendes's github stats](https://github-readme-stats.vercel.app/api?username=flaviojmendes&count_private=true&show_icons=true&theme=tokyonight)
 
